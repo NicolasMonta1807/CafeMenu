@@ -1,2 +1,2 @@
 # CafeMenu
-Just a coffee menu
+Just a coffee menu website
